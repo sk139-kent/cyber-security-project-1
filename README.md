@@ -7,5 +7,11 @@
 - [Section 2](#section-2)
 
 ## Section 1
+My First Table in Markdown
+## Modules
+| # | Column | Module | Type |
+|---|--------|--------|------|
+| 1 | [Object Oriented Programming](Object-Oriented-Programming) | Object Oriented Programming | Core |
+| 2 | [Privacy and Law](Privacy-and-Law) | Privacy and Law | Core |
 
 ## Section 2
